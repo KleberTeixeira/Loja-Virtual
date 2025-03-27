@@ -1,0 +1,30 @@
+CRIANDO ARQUIVO PARA LOJA VIRTUAL
+https://www.youtube.com/watch?v=182CKKctxKA
+
+1. Cria uma pasta chamada «assets», dentro da pasta cria os arquivos:
+index.html 
+DENTRO DO ASSETS CRIA AS PASSTAS:
+css --> aqui cria o arquivo #style.css
+js  --> aqui cria o arquivo app.js
+
+2. Acessa os link do arquivo .txt para baixar as os scripts e o link da fonte para inserir no CSS.
+3. Descompacta o arquivo e apenas deixa os arquivos com a pasta da fonte, img, css, js e  links.txt
+4. O index.html fica fora da pasta assets
+5. Acessa o link na página https://ionic.io/ionicons/usage, clica em usu, em instalação copia os links do js e cola antes do fechamento da tag body
+
+***************************************************************************************************
+NO ARQUIVO INDEX
+
+1. Renomeia o titlle
+2. Insere o link do arquivo css
+3. Insere o link do arquivo js
+4. Insere o link  do js, copiado do site citado no iten 5.
+5. Vamos comentar as div criadas
+6. A primeira classe será a banner, segunda classe é a container, onde as outras classes estarão dentro da container.
+7. Cria a classe navebar, dentro da container, onde vai constar a classe logo.
+8. Insere a imagem dentro da classe logo
+9. 
+
+NO ARQUIVO CSS
+
+1. Pesquisa n google color picker (seletor de cores)
